@@ -3,6 +3,6 @@ My first repository on GitHub.
 <DOCTYPE! html>
 <html>
 <body>
-<p>Hello world</p>
+<p>No Waifo no Laifu</p>
 </body>
 </html>
